@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/07 18:40:11.714.pas,C:\Users\Jorge Hernandez\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Jorge Hernandez\Documents\Delphi\002_fundamentos\UFfundamentos.pas</Transaction>
+    <Transaction>2023/11/07 18:40:11.714.dfm,C:\Users\Jorge Hernandez\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Jorge Hernandez\Documents\Delphi\002_fundamentos\UFfundamentos.dfm</Transaction>
+    <Transaction>2023/11/07 18:40:24.361.dproj,C:\Users\Jorge Hernandez\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Jorge Hernandez\Documents\Delphi\002_fundamentos\Fundamentos_de_programacion_pascal.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
